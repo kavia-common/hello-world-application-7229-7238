@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/hello-world-application-7229-7238/frontend_hello_world"
+}
